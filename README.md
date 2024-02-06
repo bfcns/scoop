@@ -1,4 +1,4 @@
-# BFCNS Bucket
+# BFCNS Scoop Bucket
 
 # Scoop Bucket Template
 
